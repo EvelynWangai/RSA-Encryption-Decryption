@@ -13,3 +13,5 @@ The decryption script should be capable of taking the cipher as user input and p
 original message. Since the cipher is a list of integers, the description script must have some
 way of reading the cipher one element at a time (e.g. by separating the numbers with commas
 (33,66,77,88))
+
+I have uploaded both the encryption and decryption scripts.
